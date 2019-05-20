@@ -65,13 +65,13 @@ elhtml.html
 	</body>
 </html>
 <!-- Etiquetas encontradas
-<html>
-<head>
-<title>
-<script>
-<body>
-<div>
-<h1>
+	<html>
+	<head>
+	<title>
+	<script>
+	<body>
+	<div>
+	<h1>
 
 -- Atributos encontrados:
 type, class, id
